@@ -2,9 +2,9 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import Footer from '../footer/Footer';
 // import HomeNavbar from '../navbar/HomeNavbar';
-import Navbar from '../navbar/Navbar'
+import Navbar2 from '../navbar/Navbar2'
 
-import "./Home.css"
+import "./Home2.css"
 
 export default function Home() {
   const navigate=useNavigate();
